@@ -1,0 +1,16 @@
+Project name - V_Mouse
+
+Software to dev - pycharm 2022.3
+
+Language - python
+
+Files using -  1.opencv-python
+               2.mediapipe
+               3.pyautogui
+               4.protobuf
+
+Resource - Web Camera 
+           To detect hand
+replacement of cam using mobile camera as web cam 
+with the help of (Droidcam application)
+

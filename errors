@@ -1,0 +1,32 @@
+//Package problem 
+
+
+//Package version 
+
+
+//unable to open the camera with droidcam
+cv2.VideoCapture(0)
+
+
+//The quadrants showing in flotion point
+
+
+//Mismatch in display and Camera frame height, frame width
+
+
+//length between index and thumb 
+
+
+//find the moving distance
+    File "C:\Users\APPA\Desktop\lishanth\VMouse-main\testVmouse1.py", line 38
+    elif abs(index_y - thumb_y) < :
+                                  ^
+SyntaxError: invalid syntax
+
+
+//distance value=10 to click unable to join the fingers to distance 10.
+#len between index and thumb <= 10 (to move a click action)
+                    if abs(index_y - thumb_y) < 10:
+
+
+                    
