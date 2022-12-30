@@ -4,3 +4,6 @@
 4. Using the index and thum finger to move the mouse arrow
 5. Make a click when the index and thum finger distance are close
 
+convert the point values to integer value.
+  the whole x-axis multiple by width of the frame.
+            y-axis multiple by height of the frame.
