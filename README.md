@@ -12,6 +12,6 @@ Are not have proper packages to install
 #packages need to install
 1.opencv-python
 2.mediapipe
-3.pyautogui
+3.pyautogui (help to take control r else move)
 4.protobuf
 #status(working)
