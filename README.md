@@ -18,7 +18,8 @@ Are not have proper packages to install
 
 
 VMouse_Abstraction:
-The virtual mouse project is a software
+
+     The virtual mouse project is a software
 application that allows users to control
 their computer using hand gestures 
 captured by a webcam. The software 
